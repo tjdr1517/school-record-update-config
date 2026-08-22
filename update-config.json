@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "channels": {
     "stable": {
-      "baseUrl": "https://updates.invalid/updates/stable"
+      "baseUrl": "https://github.com/tjdr1517/school-record-releases/releases/latest/download"
     }
   }
 }
