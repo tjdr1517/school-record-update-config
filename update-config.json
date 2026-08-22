@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "channels": {
     "stable": {
-      "baseUrl": "https://github.com/tjdr1517/school-record-releases/releases/latest/download"
+      "baseUrl": "https://github.com/tjdr1517/saengirok-releases/releases/latest/download"
     }
   }
 }
